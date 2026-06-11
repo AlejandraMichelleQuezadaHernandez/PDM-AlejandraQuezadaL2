@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Laboratorio04AMQH" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Laboratorio05_00066224" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
